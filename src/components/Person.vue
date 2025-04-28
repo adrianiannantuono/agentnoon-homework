@@ -71,7 +71,7 @@
       </div>
     </div>
 
-    <!-- Children Container -->
+    <!-- Children Node -->
     <div
       v-if="expanded"
       class="flex flex-col items-center"
